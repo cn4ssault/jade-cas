@@ -4,6 +4,7 @@ Imports System.IO
 Imports System.Security
 Imports System.Security.Principal
 Imports System.Net.NetworkInformation
+IMports System.Net
 Public Class FrmBank_Recon
     Dim SQL As New SQLControl
     Dim adjustedCash As Decimal = 0
